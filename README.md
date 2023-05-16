@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊Meu nome é Bárbara Rosa Sabino.<br>📜Este é meu portfólio.<br>📚Faço Técnico em Desenvolvimento de Sistemas no Sena-São José.<br>
+😊Meu nome é Bárbara Rosa Sabino.<br>📜Este é meu portfólio.<br>📚Faço Técnico em Desenvolvimento de Sistemas no Senai-São José.<br>
 
 
 ## 🌐 Socials:
